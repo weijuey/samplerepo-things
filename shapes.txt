@@ -3,3 +3,5 @@ oval
 rectangle
 square
 hexagon
+sphere
+cuboid

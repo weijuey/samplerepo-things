@@ -5,3 +5,4 @@ magenta
 violet
 gray
 brown
+sky blue

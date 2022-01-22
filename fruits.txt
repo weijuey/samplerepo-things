@@ -3,3 +3,4 @@ berries
 cherries
 papaya
 watermelon
+passionfruit
